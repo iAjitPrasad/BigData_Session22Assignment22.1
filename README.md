@@ -1,0 +1,2 @@
+# BigData_Session22Assignment22.1
+Understanding Kafka, starting a broker/leader that pushes messages to be consumed at consumer. Demonstrating ways to create multi-node replicas with multiple partitions. Different ways to create a topic(keyed/keyless) based on the key property. Formatting messages with custom values of key value separator &amp; reading the same consumed messages at consumer using custom format using key separator property.
